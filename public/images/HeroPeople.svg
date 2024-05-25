@@ -1,0 +1,44 @@
+<svg width="1693" height="335" viewBox="0 0 1693 335" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="261.919" cy="222.524" r="3.52358" transform="rotate(90 261.919 222.524)" fill="#70C217"/>
+<circle cx="210.24" cy="222.524" r="3.52358" transform="rotate(90 210.24 222.524)" fill="#70C217"/>
+<circle cx="158.56" cy="222.524" r="3.52358" transform="rotate(90 158.56 222.524)" fill="#70C217"/>
+<circle cx="106.881" cy="222.524" r="3.52358" transform="rotate(90 106.881 222.524)" fill="#70C217"/>
+<circle cx="55.202" cy="222.524" r="3.52358" transform="rotate(90 55.202 222.524)" fill="#70C217"/>
+<circle cx="3.52281" cy="222.524" r="3.52358" transform="rotate(90 3.52281 222.524)" fill="#70C217"/>
+<circle cx="54.8676" cy="71.8677" r="28.0887" transform="rotate(16.0891 54.8676 71.8677)" stroke="#FFBA49" stroke-width="5"/>
+<circle cx="1552.5" cy="21.5" r="19" stroke="#FFBA49" stroke-width="5"/>
+<circle cx="1689.44" cy="113.722" r="3.52358" transform="rotate(90 1689.44 113.722)" fill="#EF4358"/>
+<circle cx="1689.44" cy="165.401" r="3.52358" transform="rotate(90 1689.44 165.401)" fill="#EF4358"/>
+<circle cx="1689.44" cy="217.08" r="3.52358" transform="rotate(90 1689.44 217.08)" fill="#EF4358"/>
+<circle cx="1637.76" cy="113.721" r="3.52358" transform="rotate(90 1637.76 113.721)" fill="#EF4358"/>
+<circle cx="1637.76" cy="165.401" r="3.52358" transform="rotate(90 1637.76 165.401)" fill="#EF4358"/>
+<circle cx="1637.76" cy="217.08" r="3.52358" transform="rotate(90 1637.76 217.08)" fill="#EF4358"/>
+<circle cx="1586.08" cy="113.721" r="3.52358" transform="rotate(90 1586.08 113.721)" fill="#EF4358"/>
+<circle cx="1586.08" cy="165.401" r="3.52358" transform="rotate(90 1586.08 165.401)" fill="#EF4358"/>
+<circle cx="1586.08" cy="217.08" r="3.52358" transform="rotate(90 1586.08 217.08)" fill="#EF4358"/>
+<circle cx="1534.4" cy="113.721" r="3.52358" transform="rotate(90 1534.4 113.721)" fill="#EF4358"/>
+<circle cx="1534.4" cy="165.401" r="3.52358" transform="rotate(90 1534.4 165.401)" fill="#EF4358"/>
+<circle cx="1534.4" cy="217.08" r="3.52358" transform="rotate(90 1534.4 217.08)" fill="#EF4358"/>
+<circle cx="1482.72" cy="113.721" r="3.52358" transform="rotate(90 1482.72 113.721)" fill="#EF4358"/>
+<circle cx="1482.72" cy="165.401" r="3.52358" transform="rotate(90 1482.72 165.401)" fill="#EF4358"/>
+<circle cx="1431.04" cy="113.721" r="3.52358" transform="rotate(90 1431.04 113.721)" fill="#EF4358"/>
+<circle cx="1379.36" cy="113.721" r="3.52358" transform="rotate(90 1379.36 113.721)" fill="#EF4358"/>
+<circle cx="1379.36" cy="165.401" r="3.52358" transform="rotate(90 1379.36 165.401)" fill="#EF4358"/>
+<circle cx="1276" cy="113.721" r="3.52358" transform="rotate(90 1276 113.721)" fill="#EF4358"/>
+<circle cx="1224.33" cy="113.721" r="3.52358" transform="rotate(90 1224.33 113.721)" fill="#EF4358"/>
+<g filter="url(#filter0_d_17871_19)">
+<path d="M158 263.158C158 263.158 415.966 98 877 98C1338.03 98 1596 263.158 1596 263.158H877H158Z" fill="#EEEEEE"/>
+</g>
+<circle cx="128" cy="179" r="14.5" stroke="#FFBA49" stroke-width="5"/>
+<defs>
+<filter id="filter0_d_17871_19" x="105.146" y="63.1463" width="1543.71" height="270.865" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="18"/>
+<feGaussianBlur stdDeviation="26.4269"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.845 0 0 0 0 0.892895 0 0 0 0 0.975 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_17871_19"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_17871_19" result="shape"/>
+</filter>
+</defs>
+</svg>

@@ -7,10 +7,18 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        roboto: ['var(--font-roboto)'],
+        nunito_sans: ['var(--font-nunito_sans)'],
+      },
       backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        'hero-about': "url('/images/HeroAbout.svg')",
+        'hero-testimonial': "url('/images/HeroTestimonials.svg')",
+        'hero-people': "url('/images/HeroPeople.svg')",
+      },
+      colors: {
+        primary: '#272D4E',
+        'purple': '#7854F7',
       },
     },
   },
